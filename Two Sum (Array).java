@@ -10,3 +10,5 @@ class Solution {
     return nums;
     }
 }
+Given an array of integers nums and an integer target, the task is to find two indices in the array such that the numbers at those indices add up to the given target. Each input is guaranteed to have exactly one solution, and you cannot use the same element twice.
+
